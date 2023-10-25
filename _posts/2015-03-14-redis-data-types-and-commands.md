@@ -1,5 +1,5 @@
 ---
-title: "Test Page"
+title: "Redis Data Types And Commands"
 cat: "it"
 ---
 
